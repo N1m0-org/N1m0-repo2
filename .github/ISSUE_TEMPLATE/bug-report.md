@@ -3,7 +3,7 @@ name: Bug report
 about: Create a report to help us improve
 title: ''
 labels: ''
-assignees: Pwndbh1, testern1m0
+assignees: Pwndbh1
 
 ---
 
